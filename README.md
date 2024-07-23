@@ -3,7 +3,6 @@
 ## About Me
 
 - 🔭 I’m currently working as a Software Engineer Intern at Fraunhofer IESE
-- 💬 Ask me about AI, ML, VI
 - 📫 How to reach me: LinkedIn (link below)
 
 
