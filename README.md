@@ -5,7 +5,6 @@
 - 🔭 I’m currently working as a Software Engineer Intern at Fraunhofer IESE
 - 📫 How to reach me: LinkedIn (link below)
 
-
 ## Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shyalan&theme=radical&hide_border=false)
