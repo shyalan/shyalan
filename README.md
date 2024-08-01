@@ -14,6 +14,5 @@
 ## Connect with Me
 
 - LinkedIn https://www.linkedin.com/in/shyalanr/
-- Instagram https://www.instagram.com/shyalanr/
 
 Feel free to reach out and connect with me!
