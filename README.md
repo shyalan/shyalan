@@ -2,7 +2,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working as a Software Engineer Intern at Fraunhofer IESE
+- 🔭 Chapter Lead at Google Developer Student Club - LTU 24/25
+- 🧑‍💻 Mostly work with React: TS, JS, Java, Python
+- ⌨ Currently working on Radar Detection System (Frontend), Glider Bus Tracking System, CampusNav
 - 📫 How to reach me: LinkedIn (link below)
 
 ## Stats
