@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 **Chapter Lead** at Google Developer Student Club - LTU 24/25
+- 🔭 **Chapter Lead & President** at Google Developer Student Club - LTU 24/25
 - 🧑‍💻 **Tech Stack**: Primarily working with **React**, **TypeScript**, **JavaScript**, **Java**, and **Python**
 - ⚙️ **Current Projects**:
   - **Radar Detection System (Frontend)**: Developing a user interface for a radar-based detection system.
